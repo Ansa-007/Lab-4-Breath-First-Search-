@@ -442,20 +442,10 @@ class TestIndustryBFS(unittest.TestCase):
 
 ## 📄 License
 
-MIT License - Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+This educational lab is provided for learning purposes. Feel free to use and modify for your projects.
 
 ---
 
-## 📞 Support & Contact
-
-For technical support, bug reports, or feature requests:
-- **Issues**: Report via your project management system
-- **Documentation**: Refer to inline docstrings and examples
-- **Performance**: Use built-in metrics for optimization
-
----
 
 ## 🔄 Version History
 
@@ -474,6 +464,7 @@ For technical support, bug reports, or feature requests:
 
 ---
 
-**Built with ❤️ by Khansa Younas for enterprise-grade graph processing**
+**Built by Khansa Younas for enterprise-grade graph processing**
+
 
 
