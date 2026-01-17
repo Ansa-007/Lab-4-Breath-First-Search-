@@ -464,7 +464,9 @@ This educational lab is provided for learning purposes. Feel free to use and mod
 
 ---
 
-**Built by Khansa Younas for enterprise-grade graph processing**
+*Built by **Khansa Younas** for enterprise-grade graph processing.*
+- *A heartfelt gratitude for my instructor **Sir! Muhammad Imran Afzal** for continous guidance in the journey.*
+
 
 
 
